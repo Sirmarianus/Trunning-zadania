@@ -10,7 +10,7 @@ Twój szef poprosił Cię, abyś zaprojektował dla niego nowy element do aplika
 
 ![Materiały/item.png](Materiały/item.png)
 
-Twój [opiekun stażu](https://github.com/piotrjwegrzyn) przygotował dla Ciebie garść pomocnych informacji o parametrach elementów interfejsu mobilnego, które znajdują się w [prezentacji](Materiały/Prezentacja_Trunning.pdf). Zaprojektowany interfejs zapisz w pliku `xml`.
+Twój [opiekun stażu](https://github.com/piotrjwegrzyn) przygotował dla Ciebie garść pomocnych informacji o parametrach elementów interfejsu mobilnego, które znajdują się w [prezentacji](Materiały/Prezentacja_Trunning.pdf). Zaprojektowany interfejs zapisz w pliku `menu_item.xml` i wyślij na UPeL.
 
 ## Zadanie 2
 
@@ -27,13 +27,13 @@ Wprowadzone liczby to 15 i 81
 Największy wspólny dzielnik wynosi: 3
 ```
 
-Podstawy języka Kotlin opisał [menadżer projektu](https://github.com/Sirmarianus) w [prezentacji](Materiały/Prezentacja_Trunning.pdf).
+Podstawy języka Kotlin opisał [menadżer projektu](https://github.com/Sirmarianus) w [prezentacji](Materiały/Prezentacja_Trunning.pdf). Uzupełniony plik `Liczby.kt` wyślij na UPeL.
 
 ## Zadanie 3
 
 Spisałeś się!
 
-Ostatnim zadaniem jest prosty teścik o bazach danych umiejscowiony w [systemie mistrzów](https://upel2.cel.agh.edu.pl/wiet/course/view.php?id=1345#section-26).
+Ostatnim zadaniem jest prosty teścik o bazach danych umiejscowiony w [systemie mistrzów](https://upel2.cel.agh.edu.pl/wiet/course/view.php?id=1345#section-27).
 
 ## Słowo na koniec
 
